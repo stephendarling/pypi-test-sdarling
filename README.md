@@ -6,6 +6,10 @@ Build the package using the setup.py manifest
 ```sh
 python setup.py sdist bdist_wheel
 ```
+To increase the version number, use this:
+```sh
+bumpversion --current-version 0.2.0 minor setup.py pypi_test/__init__.py --allow-dirty
+```
 
 ## Upload
 Upload to TestPyPi with this:
