@@ -1,12 +1,13 @@
 Metadata-Version: 2.1
 Name: pypi-test-sdarling
-Version: 0.0.1
+Version: 0.2.0
 Summary: Test deployment to pypi.org
 Home-page: https://github.com/stephendarling/pypi-test-sdarling
 Author: Stephen Darling
 Author-email: stephen.darling@outlook.com
 License: MIT
 Description: # PyPi Test 
+        Link to instructions: https://realpython.com/pypi-publish-python-package/
 Platform: UNKNOWN
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
