@@ -22,3 +22,7 @@ You can tell pip to install a package from TestPyPi with this:
 ```sh
 pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple your-package-name
 ```
+Virtualenv setup:
+```sh
+virtualenv -p python3 my-environment-name
+```
