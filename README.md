@@ -30,3 +30,11 @@ Virtualenv setup:
 ```sh
 virtualenv -p python3 my-environment-name
 ```
+Start virtualenv:
+```sh
+source my-environment-name/bin/activate
+```
+Stop virtualenv:
+```sh
+deactivate
+```
