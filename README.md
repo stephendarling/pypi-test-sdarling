@@ -16,3 +16,9 @@ Upload to main PyPi with this:
 ```sh
 twine upload dist/*
 ```
+
+## Testing Package
+You can tell pip to install a package from TestPyPi with this:
+```sh
+pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple your-package-name
+```
