@@ -1,0 +1,9 @@
+README.md
+setup.py
+pypi_test/__init__.py
+pypi_test/__main__.py
+pypi_test_sdarling.egg-info/PKG-INFO
+pypi_test_sdarling.egg-info/SOURCES.txt
+pypi_test_sdarling.egg-info/dependency_links.txt
+pypi_test_sdarling.egg-info/entry_points.txt
+pypi_test_sdarling.egg-info/top_level.txt
